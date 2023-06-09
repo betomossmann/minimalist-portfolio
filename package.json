@@ -1,6 +1,8 @@
 {
-  "name": "min-port",
-  "version": "1.0.0",
+  "name": "minimalist-portfolio",
+  "version": "0.0.1",
+  "description": "Indie portfolio for developers (with dark mode)",
+  "author": "Gilberto Mossmann",
   "private": true,
   "scripts": {
     "dev": "next dev",
