@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "description": "Indie portfolio for developers (with dark mode)",
   "author": "Gilberto Mossmann",
-  "private": true,
+  "homepage": "http://beto.dev.br/",
+  "license": "GPL-3.0-or-later",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

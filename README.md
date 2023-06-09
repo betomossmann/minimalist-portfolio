@@ -1,3 +1,5 @@
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+
 # Indie portfolio for developers (with dark mode)
 
 [![alt text](./public/indie.gif "Create BY")](https://github.com/betomossmann)
